@@ -1,7 +1,7 @@
 
 # Computer Vision Notebooks
 
-This repository contains a collection of Computer Vision basics Jupyter notebooks. I have created while learning about computer vision. The notebooks are written in Python and use the OpenCV library. The notebooks are intended to be used as a learning resource for myself and others.
+This repository contains a collection of Computer Vision basics Jupyter notebooks.
 
 Libraries used:
 1. OpenCV
@@ -9,18 +9,22 @@ Libraries used:
 3. Matplotlib and SeaBorn
 4. Numpy
 
+<br>
 
 ## Table of Contents
 
-1. [Image Basics](notebooks/image-basics.ipynb)
-2. [Image Plotting](notebooks/image-plotting.ipynb)
-3. [Image Processing](notebooks/image-processing.ipynb)
+1. [Image Plotting](notebooks/image-plotting.ipynb)
+<!-- 1. [Image Basics](notebooks/image-basics.ipynb) -->
+<!-- 3. [Image Processing](notebooks/image-processing.ipynb) -->
 
 
+<br>
 
-### Image Plotting
+---
+<br>
+
+### Image Plotting
 
 This notebook contains examples of how to plot images using Matplotlib.
 
-<!-- Insert markdown image -->
 ![Image Plotting](img/image-plotting.png)
