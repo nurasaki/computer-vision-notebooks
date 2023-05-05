@@ -27,4 +27,8 @@ Libraries used:
 
 This notebook contains examples of how to plot images using Matplotlib.
 
-![Image Plotting](img/image-plotting.png)
+Example (text with lines): 
+![Image Plotting](img/samples/image-plotting.png)
+
+Example (unsaplash sea):
+![Image Plotting](img/samples/image-plotting-sea.png)
